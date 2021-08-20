@@ -1,5 +1,5 @@
-# OldPatreonExclusiveThings
-A collection of assets and tools that I used to distribute through Patreon exclusively. As my time on patreon has come to an end, I am releasing these assets for free!
+
+This repository is a collection of assets and tools that I used to distribute through Patreon exclusively, and is provided as is. As my time on patreon has come to an end, I am releasing these assets for free!
 
 __Note: This repository will only contain things that were exclusive to Patreon. Assets that are also on booth will not be here.__
 
